@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 | [1603-running-sum-of-1d-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
