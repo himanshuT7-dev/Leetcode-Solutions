@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
