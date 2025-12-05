@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -79,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
