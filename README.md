@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
