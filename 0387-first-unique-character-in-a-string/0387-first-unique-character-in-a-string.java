@@ -1,19 +1,26 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int c[] = new int[26];
-        for(int i=0;i<s.length();i++)
-        {
-            c[s.charAt(i) - 97]++;
+        int index = s.length();
+        HashMap<Character,Integer> map = new HashMap<>();
+        for(char i:s.toCharArray()){
+            map.put(i,map.getOrDefault(i,0)+1);
         }
 
-        for(int i=0;i<s.length();i++)
-        {
-            if(c[s.charAt(i)-97]==1)
+        for(Map.Entry<Character,Integer> e:map.entrySet()){
+            if(e.getValue()==1)
             {
-                return i;
+                int x = s.indexOf(e.getKey());
+                if(x<index)
+                {
+                    index=x;
+                }
             }
         }
+        if(index==s.length())
+        {
+            return -1;
+        }
 
-        return -1;
+        return index;
     }
 }
