@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
