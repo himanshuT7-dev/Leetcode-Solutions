@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -121,15 +122,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
