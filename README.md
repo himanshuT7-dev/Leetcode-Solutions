@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1768-merge-strings-alternately](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
