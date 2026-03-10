@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
