@@ -1,12 +1,15 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String dup="";
-        String temp = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
-        for(int i=temp.length()-1;i>=0;i--)
+        String a1 = s.replaceAll("[^a-zA-Z0-9]","");
+        a1 = a1.toLowerCase();
+        String temp = a1;
+        String rev="";
+
+        for(int i=a1.length()-1;i>=0;i--)
         {
-            dup+=temp.charAt(i);
+            rev = rev+a1.charAt(i);
         }
 
-        return temp.equals(dup);
+        return rev.equals(temp);
     }
 }
