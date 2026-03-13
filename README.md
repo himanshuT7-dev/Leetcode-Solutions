@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1635-number-of-good-pairs](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
