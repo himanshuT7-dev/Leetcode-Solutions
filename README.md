@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/himanshuT7-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
